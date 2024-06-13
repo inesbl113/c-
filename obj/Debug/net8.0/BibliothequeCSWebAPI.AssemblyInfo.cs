@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliothequeCSWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+873c58ccfaa36ce220056d9f7eab91a6b9f12693")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a9f6e34a1eddc99f98da04f4b02b0f22208280")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliothequeCSWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliothequeCSWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

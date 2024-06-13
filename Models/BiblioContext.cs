@@ -6,6 +6,7 @@ namespace BibliothequeCSWebAPI.Models;
 
 public partial class BiblioContext : DbContext
 {
+    
     public BiblioContext()
     {
     }
