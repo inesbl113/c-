@@ -125,3 +125,4 @@ C:\Users\ib\Desktop\POEC\DotNet\BibliothequeCSWebAPI\bin\Debug\net8.0\runtimes\w
 C:\Users\ib\Desktop\POEC\DotNet\BibliothequeCSWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\ib\Desktop\POEC\DotNet\BibliothequeCSWebAPI\obj\Debug\net8.0\BibliothequeCSWebAPI.csproj.AssemblyReference.cache
 C:\Users\ib\Desktop\POEC\DotNet\BibliothequeCSWebAPI\obj\Debug\net8.0\Biblioth.854E7541.Up2Date
+C:\Users\ib\Desktop\POEC\DotNet\BibliothequeCSWebAPI\obj\Debug\net8.0\BibliothequeCSWebAPI.sourcelink.json
